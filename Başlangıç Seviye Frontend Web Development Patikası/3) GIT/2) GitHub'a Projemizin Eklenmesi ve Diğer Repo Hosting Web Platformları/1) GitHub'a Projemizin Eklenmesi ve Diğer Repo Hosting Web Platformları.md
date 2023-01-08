@@ -12,21 +12,21 @@
 
 GitHub'da repo oluşturabilmek için hesap oluşturma aşamalarından sonra profilimizde bulunan ***"Repositories"*** menüsünden sağ kısımda bulunan **"New"** butonu ile repo oluşturma kısmına erişebiliriz.
 
->Owner: Reponun sahibinin seçiyoruz.
+>**Owner**: Reponun sahibinin seçiyoruz.
 
->Repository name: Oluşturduğumuz reponun adını belirliyoruz.
+>**Repository name**: Oluşturduğumuz reponun adını belirliyoruz.
 
->Description: Repomuz için bir açıklama girebiliriz.
+>**Description**: Repomuz için bir açıklama girebiliriz.
 
->Public: Repomuzun tüm herkesin erişimini sağlar.
+>**Public**: Repomuzun tüm herkesin erişimini sağlar.
 
->Private: Bu seçenek sayesinde repomuzu gizli bir şekilde oluşturabiliriz.
+>**Private**: Bu seçenek sayesinde repomuzu gizli bir şekilde oluşturabiliriz.
 
->Add a README file: Repomuza öncesinde README dosyası oluşturmuş oluruz, dilersek daha sonrasında kendimiz ekleyebilir ve güncelleyebiliriz.
+>**Add a README file**: Repomuza öncesinde README dosyası oluşturmuş oluruz, dilersek daha sonrasında kendimiz ekleyebilir ve güncelleyebiliriz.
 
->Add .gitignore: Repomuza öncesinde .gitignore dosyası oluşturabilir ve göndermek istemediğimiz dosyaları seçebiliriz, daha sonrasında aynı işlemi yapabilir ve .gitignore dosyamızı güncelleyebiliriz.
+>**Add .gitignore**:** Repomuza öncesinde .gitignore dosyası oluşturabilir ve göndermek istemediğimiz dosyaları seçebiliriz, daha sonrasında aynı işlemi yapabilir ve .gitignore dosyamızı güncelleyebiliriz.
 
->Choose a license: Reponuz için bir lisans seçimi yapabilmenizi sağlar.
+>**Choose a license**: Reponuz için bir lisans seçimi yapabilmenizi sağlar.
 
 - Gerekli işlemleri tamamladıktan sonra ***"Create repository"*** diyerek repomuzu oluşturmuş oluruz.
 
