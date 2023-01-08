@@ -1,4 +1,4 @@
-# Markdown Nedir  Nasıl Kullanırız
+# Markdown Nedir?  Nasıl Kullanırız?
 ## 4 Ana İşaretleyici var;
 1.	`#`  başlıklar için kullanılıyor. Sayısı arttıkça h artıyor yani ## olursa h2 oluyor.
 2.	`–` veya `*` kullanımı( -  veya * olduğu zaman list item gibi bir bölüm oluşturuyor. *kelime* (`*kelime*`)yapısı ile italic, **kelime**(`*kelime*`) yapısı ile bold, ***kelime***(`***kelime***`) yapısı ile bold italic oluyor. İkiden fazla – koyarsak(-------) sayfayı bölecek bir çizgi çizmiş olunuyor.)
