@@ -58,7 +58,7 @@ class Program
 
         char ch = '2';     // 2byte
          Console.WriteLine(ch);
-        string str = "Muaz"; //sınırsız
+        string str = "MuazErdemYigit"; //sınırsız
          Console.WriteLine(str);
 
         bool b1 = true;
