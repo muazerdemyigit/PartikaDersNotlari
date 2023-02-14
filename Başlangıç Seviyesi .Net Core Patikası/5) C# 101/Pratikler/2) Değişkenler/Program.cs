@@ -18,19 +18,30 @@ class Program
 
         //***************************************
         byte b = 5;        // 1 byte
+         Console.WriteLine(b);
         sbyte c = 5;       // 1 byte
+         Console.WriteLine(c);
 
         short s = 5;       // 2 byte
+         Console.WriteLine(s);
         ushort us = 5;     // 2 byte
+         Console.WriteLine(us);
 
         Int16 i16 = 2;     // 2 byte
+         Console.WriteLine(i16);
         int i = 2;         // 4 byte
+         Console.WriteLine(i);
         Int32 i32 = 2;     // 4 byte
+         Console.WriteLine(i32);
         Int64 i64 = 2;     // 8 byte
+         Console.WriteLine(i64);
 
         uint ui = 2;       // 4 byte
+         Console.WriteLine(ui);
         long l = 4;        // 8 byte
+         Console.WriteLine(l);
         ulong ul = 4;      // 8 byte
+         Console.WriteLine(ul);
         
         //***************************************
 
@@ -39,14 +50,21 @@ class Program
 
         //***************************************
         float f = 5;       // 4 byte - reel sayılar
+         Console.WriteLine(f);
         double d = 5;      // 8 byte
+         Console.WriteLine(d);
         decimal dc = 5;    // 16 byte
+         Console.WriteLine(dc);
 
         char ch = '2';     // 2byte
-        string str = "Tansu"; //sınırsız
+         Console.WriteLine(ch);
+        string str = "Muaz"; //sınırsız
+         Console.WriteLine(str);
 
         bool b1 = true;
+         Console.WriteLine(b1);
         bool b2 = false;
+         Console.WriteLine(b2);
 
         DateTime dt = DateTime.Now;
         Console.WriteLine(dt);
@@ -64,9 +82,9 @@ class Program
 
         //***************************************
         string str1 = string.Empty;
-        str1 = "Tansu Dogan";
-        string ad = "Tansu";
-        string soyad = "Dogan";
+        str1 = "Muaz Yiğit";
+        string ad = "Muaz";
+        string soyad = "Yiğit";
         string tamIsim = ad + " " + soyad;
 
         //***************************************
@@ -88,6 +106,7 @@ class Program
         //***************************************
 
         bool boll1 = 10 > 2;
+         Console.WriteLine(boll1);
 
         //***************************************
 
