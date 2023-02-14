@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\muaze\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\2) Değişkenler\\2) Değişkenler.csproj",
+      "projectName": "2) Değişkenler",
+      "projectPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\2) Değişkenler\\2) Değişkenler.csproj",
+      "packagesPath": "C:\\Users\\muaze\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\2) Değişkenler\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\muaze\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
