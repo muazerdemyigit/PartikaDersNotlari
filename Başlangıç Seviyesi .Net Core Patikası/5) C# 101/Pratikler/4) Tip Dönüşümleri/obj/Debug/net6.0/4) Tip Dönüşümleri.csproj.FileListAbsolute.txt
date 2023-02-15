@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\bin\Debug\net6.0\4) Tip Dönüşümleri.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\bin\Debug\net6.0\4) Tip Dönüşümleri.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\bin\Debug\net6.0\4) Tip Dönüşümleri.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\bin\Debug\net6.0\4) Tip Dönüşümleri.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\bin\Debug\net6.0\4) Tip Dönüşümleri.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\refint\4) Tip Dönüşümleri.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\4) Tip Dönüşümleri.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\4) Tip Dönüşümleri\obj\Debug\net6.0\ref\4) Tip Dönüşümleri.dll
