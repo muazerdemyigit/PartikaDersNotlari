@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\bin\Debug\net6.0\6) If-ElseIf-Ternary-If.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\bin\Debug\net6.0\6) If-ElseIf-Ternary-If.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\bin\Debug\net6.0\6) If-ElseIf-Ternary-If.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\bin\Debug\net6.0\6) If-ElseIf-Ternary-If.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\bin\Debug\net6.0\6) If-ElseIf-Ternary-If.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\refint\6) If-ElseIf-Ternary-If.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\6) If-ElseIf-Ternary-If.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\6) If-ElseIf-Ternary-If\obj\Debug\net6.0\ref\6) If-ElseIf-Ternary-If.dll
