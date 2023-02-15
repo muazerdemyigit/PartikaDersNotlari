@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\bin\Debug\net6.0\3) Operatorler.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\bin\Debug\net6.0\3) Operatorler.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\bin\Debug\net6.0\3) Operatorler.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\bin\Debug\net6.0\3) Operatorler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\bin\Debug\net6.0\3) Operatorler.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\refint\3) Operatorler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\3) Operatorler.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\3) Operatorler\obj\Debug\net6.0\ref\3) Operatorler.dll

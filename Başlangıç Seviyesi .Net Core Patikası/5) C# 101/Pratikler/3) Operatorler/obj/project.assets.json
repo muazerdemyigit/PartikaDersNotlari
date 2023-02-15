@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\console-app.csproj",
-      "projectName": "console-app",
-      "projectPath": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\console-app.csproj",
+      "projectUniqueName": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\3) Operatorler\\3) Operatorler.csproj",
+      "projectName": "3) Operatorler",
+      "projectPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\3) Operatorler\\3) Operatorler.csproj",
       "packagesPath": "C:\\Users\\muaze\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\obj\\",
+      "outputPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\3) Operatorler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muaze\\AppData\\Roaming\\NuGet\\NuGet.Config"

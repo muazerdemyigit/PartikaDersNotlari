@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\console-app\\console-app.csproj": {}
+    "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\console-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\console-app\\console-app.csproj": {
+    "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\console-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\console-app\\console-app.csproj",
+        "projectUniqueName": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\console-app.csproj",
         "projectName": "console-app",
-        "projectPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\console-app\\console-app.csproj",
+        "projectPath": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\console-app.csproj",
         "packagesPath": "C:\\Users\\muaze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\console-app\\obj\\",
+        "outputPath": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\1) console-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muaze\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\bin\Debug\net6.0\2) Değişkenler.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\bin\Debug\net6.0\2) Değişkenler.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\bin\Debug\net6.0\2) Değişkenler.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\bin\Debug\net6.0\2) Değişkenler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\bin\Debug\net6.0\2) Değişkenler.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\refint\2) Değişkenler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\2) Değişkenler.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\2) Değişkenler\obj\Debug\net6.0\ref\2) Değişkenler.dll

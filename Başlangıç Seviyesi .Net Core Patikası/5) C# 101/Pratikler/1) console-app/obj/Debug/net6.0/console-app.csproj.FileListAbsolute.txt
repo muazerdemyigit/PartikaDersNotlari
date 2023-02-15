@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\bin\Debug\net6.0\console-app.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\bin\Debug\net6.0\console-app.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\bin\Debug\net6.0\console-app.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\bin\Debug\net6.0\console-app.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\bin\Debug\net6.0\console-app.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\refint\console-app.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\console-app.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\1) console-app\obj\Debug\net6.0\ref\console-app.dll
