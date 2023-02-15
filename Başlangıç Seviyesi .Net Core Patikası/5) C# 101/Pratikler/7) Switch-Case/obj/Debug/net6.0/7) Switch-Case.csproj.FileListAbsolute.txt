@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\bin\Debug\net6.0\7) Switch-Case.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\bin\Debug\net6.0\7) Switch-Case.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\bin\Debug\net6.0\7) Switch-Case.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\bin\Debug\net6.0\7) Switch-Case.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\bin\Debug\net6.0\7) Switch-Case.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\refint\7) Switch-Case.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\7) Switch-Case.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\7) Switch-Case\obj\Debug\net6.0\ref\7) Switch-Case.dll
