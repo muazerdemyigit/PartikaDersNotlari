@@ -4,7 +4,7 @@ C programlama dillerinden tutun da Java, Python gibi programlama dillerine kadar
 `If else` yapısı içerisinde koşulun sağlandığı kodlar `if` içerisinde yer alırken, koşulun sağlanmadığı kodlar ise `else` içerisinde yer alır.
 
 Eğer ilk koşul yanlışsa başka bir koşul belirtmek amacıyla `else if` kullanılır. `If/Els` kullanımı aşağıdaki gibidir:
-```c#
+```csharp
 if(kosul) {
     // Bu kod satırı çalışacaktır.
 }
@@ -15,7 +15,7 @@ else {
 ```
 
 `Else` kod blokları arasında tek satırlık bir kod yazılacaksa köşeli parantez `{ }` kullanımına gerek yoktur.
-```c#
+```csharp
 if(kosul) {
     // Bu kod satırı çalışacaktır.
 } 
@@ -44,7 +44,7 @@ Yazdığımız `condition`'nın bize direkt olarak `false` dönmesinin yanı sı
 
 Ternary operatörleri aynı zamanda birbiri ardına zincirleyerek (`chaining`) kullanabiliriz. Bu sayede farklı olasılıkları da katarak daha detaylı senaryoları kontrol edebiliriz.
 
-```c#
+```csharp
 int time = DateTime.Now.Hour;
 
 string sonuc = time >= 6 && time < 11 ? "Günaydın" : time <= 18 ? "İyi Günler" : "İyi Geceler";

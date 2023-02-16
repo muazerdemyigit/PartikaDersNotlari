@@ -10,7 +10,7 @@
 
 Örnek:
 
-```c#
+```csharp
 try
 {
     int a = int.Parse(Console.ReadLine());

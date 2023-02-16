@@ -13,13 +13,13 @@ Bir değişken tanımlaması yaptığımızda bellekten o değişkenin tipine ba
     Bir değişkenin kendinden daha yüksek kapasiteli bir değişkene atanmasıdır. Hedef değişkenin veri tipi bellekte yeterli alana sahip olacağından, bu dönüşümde bir veri kaybı söz konusu olmayacaktır. Dolayısıyla bu dönüşüm kendiliğinden yapılabilir.
 
 Örnek:
-```c#
+```csharp
 float a; 
 int b = 25; 
 a = b;
 ```
 Örnek:
-```c#
+```csharp
 short x = 10; 
 int y; 
 y = x;

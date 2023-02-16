@@ -1,7 +1,7 @@
 # **`For` Döngüsü ve `Break Continue` Anahtar Kelimeleri**
 
 Örnek bir `for` döngüsü 2 ifade, 1 koşuldan oluşur.
-```c#
+```csharp
 for(ifade1;kosul;ifade2)
 {
     komut1;
@@ -21,7 +21,7 @@ for(ifade1;kosul;ifade2)
 ## **`Break` Anahtar Kelimesi**
 
 `Break` ifadesi döngü içerisinden çıkmak istenildiğinde kullanılır.
-```c#
+```csharp
 for (int i; ;)// Sonsuz döngü
 {
     a = Convert.ToChar(Console.ReadLine());
@@ -38,7 +38,7 @@ Yukarıdaki örnekte `console`'dan girilen değer 7' ye eşit ise döngü sonlan
 ## **`Continue` Anahtar Kelimesi**
 
 Kullanım amacı `break` ifadesine benzer ama `continue` sadece mevcut iterasyonu sonlandırır. Döngü bir sonraki iterasyondan devam eder.
-```c#
+```csharp
 for (int i = 1; i <= 10; i++)
 {
     if (i % 2 == 0)

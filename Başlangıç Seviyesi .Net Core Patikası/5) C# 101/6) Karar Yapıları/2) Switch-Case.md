@@ -4,7 +4,7 @@
 
 Örnek bir `switch-case` ifadesi :
 
-```c#
+```csharp
 switch(degisken)
 {
     case sabit1:
