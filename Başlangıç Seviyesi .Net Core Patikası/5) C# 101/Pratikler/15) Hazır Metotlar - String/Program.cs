@@ -120,7 +120,7 @@ class Program
         //*****************************************
 
         //Split belirtilen koşula göre parçalar ve bir diziye atar, istenilen Index'teki veriyi döner.
-        Console.WriteLine(degisken.Split(' '[1]));//Boşluklara göre parçala ve 1.Index'i getir.
+        Console.WriteLine(degisken.Split(' ')[1]);//Boşluklara göre parçala ve 1.Index'i getir.
 
         //*****************************************
 
