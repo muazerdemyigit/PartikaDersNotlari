@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\bin\Debug\net6.0\15) Hazır Metotlar - String.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\bin\Debug\net6.0\15) Hazır Metotlar - String.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\bin\Debug\net6.0\15) Hazır Metotlar - String.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\bin\Debug\net6.0\15) Hazır Metotlar - String.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\bin\Debug\net6.0\15) Hazır Metotlar - String.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\refint\15) Hazır Metotlar - String.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\15) Hazır Metotlar - String.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\15) Hazır Metotlar - String\obj\Debug\net6.0\ref\15) Hazır Metotlar - String.dll
