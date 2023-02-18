@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj": {}
+    "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj": {
+    "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj",
+        "projectUniqueName": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj",
         "projectName": "19) Dictionary",
-        "projectPath": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj",
+        "projectPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\19) Dictionary.csproj",
         "packagesPath": "C:\\Users\\muaze\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\obj\\",
+        "outputPath": "C:\\Users\\muaze\\Desktop\\Patika Ders Notları\\Başlangıç Seviyesi .Net Core Patikası\\5) C# 101\\Pratikler\\19) Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muaze\\AppData\\Roaming\\NuGet\\NuGet.Config"
