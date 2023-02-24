@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\bin\Debug\net7.0\21) Kurucu Metotlar.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\bin\Debug\net7.0\21) Kurucu Metotlar.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\bin\Debug\net7.0\21) Kurucu Metotlar.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\bin\Debug\net7.0\21) Kurucu Metotlar.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\bin\Debug\net7.0\21) Kurucu Metotlar.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\refint\21) Kurucu Metotlar.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\21) Kurucu Metotlar.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\21) Kurucu Metotlar\obj\Debug\net7.0\ref\21) Kurucu Metotlar.dll
