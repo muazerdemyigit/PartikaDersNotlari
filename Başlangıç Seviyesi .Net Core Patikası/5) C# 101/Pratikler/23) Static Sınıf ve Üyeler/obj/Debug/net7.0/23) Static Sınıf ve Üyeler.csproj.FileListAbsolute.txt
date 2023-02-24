@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\bin\Debug\net7.0\23) Static Sınıf ve Üyeler.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\bin\Debug\net7.0\23) Static Sınıf ve Üyeler.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\bin\Debug\net7.0\23) Static Sınıf ve Üyeler.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\bin\Debug\net7.0\23) Static Sınıf ve Üyeler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\bin\Debug\net7.0\23) Static Sınıf ve Üyeler.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\refint\23) Static Sınıf ve Üyeler.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\23) Static Sınıf ve Üyeler.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\23) Static Sınıf ve Üyeler\obj\Debug\net7.0\ref\23) Static Sınıf ve Üyeler.dll
