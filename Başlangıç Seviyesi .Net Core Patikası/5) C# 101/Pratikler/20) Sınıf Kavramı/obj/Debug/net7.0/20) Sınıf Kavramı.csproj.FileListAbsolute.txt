@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\bin\Debug\net7.0\20) Sınıf Kavramı.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\bin\Debug\net7.0\20) Sınıf Kavramı.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\bin\Debug\net7.0\20) Sınıf Kavramı.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\bin\Debug\net7.0\20) Sınıf Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\bin\Debug\net7.0\20) Sınıf Kavramı.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\refint\20) Sınıf Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\20) Sınıf Kavramı.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\20) Sınıf Kavramı\obj\Debug\net7.0\ref\20) Sınıf Kavramı.dll
