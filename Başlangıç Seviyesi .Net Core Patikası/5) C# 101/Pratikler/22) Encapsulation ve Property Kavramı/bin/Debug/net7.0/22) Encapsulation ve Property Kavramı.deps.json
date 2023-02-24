@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "22) Encapsulation ve Property Kavramı/1.0.0": {
+        "runtime": {
+          "22) Encapsulation ve Property Kavramı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22) Encapsulation ve Property Kavramı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

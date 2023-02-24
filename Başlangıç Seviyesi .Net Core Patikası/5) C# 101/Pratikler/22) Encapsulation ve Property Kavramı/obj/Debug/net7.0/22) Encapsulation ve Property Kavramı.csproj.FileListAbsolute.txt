@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\bin\Debug\net7.0\22) Encapsulation ve Property Kavramı.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\bin\Debug\net7.0\22) Encapsulation ve Property Kavramı.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\bin\Debug\net7.0\22) Encapsulation ve Property Kavramı.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\bin\Debug\net7.0\22) Encapsulation ve Property Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\bin\Debug\net7.0\22) Encapsulation ve Property Kavramı.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\refint\22) Encapsulation ve Property Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\22) Encapsulation ve Property Kavramı.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\22) Encapsulation ve Property Kavramı\obj\Debug\net7.0\ref\22) Encapsulation ve Property Kavramı.dll
