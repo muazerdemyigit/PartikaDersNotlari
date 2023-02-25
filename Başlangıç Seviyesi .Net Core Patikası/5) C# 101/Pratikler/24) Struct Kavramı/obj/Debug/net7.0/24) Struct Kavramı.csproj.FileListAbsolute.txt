@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\bin\Debug\net7.0\24) Struct Kavramı.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\bin\Debug\net7.0\24) Struct Kavramı.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\bin\Debug\net7.0\24) Struct Kavramı.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\bin\Debug\net7.0\24) Struct Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\bin\Debug\net7.0\24) Struct Kavramı.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\refint\24) Struct Kavramı.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\24) Struct Kavramı.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\5) C# 101\Pratikler\24) Struct Kavramı\obj\Debug\net7.0\ref\24) Struct Kavramı.dll
