@@ -8,7 +8,7 @@ class Program
         dikdortgen.UzunKenar = 4;
         Console.WriteLine("Class Alan Hesabı  :{0}", dikdortgen.AlanHesapla());
 
-        Dikdortgen_Struct dikdortgen_Struct = new Dikdortgen_Struct(3, 4);//new kullanmadan da kullanılabiliyor.
+        Dikdortgen_Struct dikdortgen_Struct = new Dikdortgen_Struct(3, 4);//new kullanmadan da kullanılabiliyor. new kullanılmadan yazılınca initial değerlerini kendisi atayamıyor bizim yazmamız lazım.
         //dikdortgen_Struct.KisaKenar = 3;
         //dikdortgen_Struct.UzunKenar = 4;
         Console.WriteLine("Class Alan Hesabı  :{0}", dikdortgen_Struct.AlanHesapla());
