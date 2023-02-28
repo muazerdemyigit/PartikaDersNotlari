@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\bin\Debug\net7.0\2) Üçgen Çizme.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\bin\Debug\net7.0\2) Üçgen Çizme.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\bin\Debug\net7.0\2) Üçgen Çizme.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\bin\Debug\net7.0\2) Üçgen Çizme.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\bin\Debug\net7.0\2) Üçgen Çizme.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\refint\2) Üçgen Çizme.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\2) Üçgen Çizme.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\2) Üçgen Çizme\obj\Debug\net7.0\ref\2) Üçgen Çizme.dll
