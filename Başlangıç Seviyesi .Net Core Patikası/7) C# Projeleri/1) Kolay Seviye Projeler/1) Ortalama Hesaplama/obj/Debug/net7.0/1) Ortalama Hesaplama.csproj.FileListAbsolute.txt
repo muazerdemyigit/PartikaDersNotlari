@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\bin\Debug\net7.0\1) Ortalama Hesaplama.exe
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\bin\Debug\net7.0\1) Ortalama Hesaplama.deps.json
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\bin\Debug\net7.0\1) Ortalama Hesaplama.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\bin\Debug\net7.0\1) Ortalama Hesaplama.dll
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\bin\Debug\net7.0\1) Ortalama Hesaplama.pdb
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.dll
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\refint\1) Ortalama Hesaplama.dll
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.pdb
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\1) Ortalama Hesaplama.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri\1) Kolay Seviye Projeler\1) Ortalama Hesaplama\obj\Debug\net7.0\ref\1) Ortalama Hesaplama.dll
