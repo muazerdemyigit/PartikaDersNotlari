@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\bin\Debug\net7.0\4) Algoritma.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\bin\Debug\net7.0\4) Algoritma.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\bin\Debug\net7.0\4) Algoritma.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\bin\Debug\net7.0\4) Algoritma.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\bin\Debug\net7.0\4) Algoritma.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\refint\4) Algoritma.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\4) Algoritma.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\1) Kolay Seviye Projeler\4) Algoritma\obj\Debug\net7.0\ref\4) Algoritma.dll
