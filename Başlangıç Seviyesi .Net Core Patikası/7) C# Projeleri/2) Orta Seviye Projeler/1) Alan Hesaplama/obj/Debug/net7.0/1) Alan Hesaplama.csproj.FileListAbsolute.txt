@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\bin\Debug\net7.0\1) Alan Hesaplama.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\bin\Debug\net7.0\1) Alan Hesaplama.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\bin\Debug\net7.0\1) Alan Hesaplama.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\bin\Debug\net7.0\1) Alan Hesaplama.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\bin\Debug\net7.0\1) Alan Hesaplama.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\refint\1) Alan Hesaplama.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\1) Alan Hesaplama.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\1) Alan Hesaplama\obj\Debug\net7.0\ref\1) Alan Hesaplama.dll
