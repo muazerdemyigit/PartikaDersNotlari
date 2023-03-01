@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\bin\Debug\net7.0\3) Mutlak Kare Alma.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\bin\Debug\net7.0\3) Mutlak Kare Alma.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\bin\Debug\net7.0\3) Mutlak Kare Alma.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\bin\Debug\net7.0\3) Mutlak Kare Alma.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\bin\Debug\net7.0\3) Mutlak Kare Alma.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\refint\3) Mutlak Kare Alma.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\3) Mutlak Kare Alma.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\3) Mutlak Kare Alma\obj\Debug\net7.0\ref\3) Mutlak Kare Alma.dll
