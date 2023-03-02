@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\bin\Debug\net7.0\5) Sessiz Harf.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\bin\Debug\net7.0\5) Sessiz Harf.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\bin\Debug\net7.0\5) Sessiz Harf.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\bin\Debug\net7.0\5) Sessiz Harf.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\bin\Debug\net7.0\5) Sessiz Harf.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\refint\5) Sessiz Harf.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\5) Sessiz Harf.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\5) Sessiz Harf\obj\Debug\net7.0\ref\5) Sessiz Harf.dll
