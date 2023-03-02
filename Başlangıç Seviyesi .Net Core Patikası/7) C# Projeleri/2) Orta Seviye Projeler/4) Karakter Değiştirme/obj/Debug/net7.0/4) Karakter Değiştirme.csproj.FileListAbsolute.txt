@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\bin\Debug\net7.0\4) Karakter Değiştirme.exe
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\bin\Debug\net7.0\4) Karakter Değiştirme.deps.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\bin\Debug\net7.0\4) Karakter Değiştirme.runtimeconfig.json
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\bin\Debug\net7.0\4) Karakter Değiştirme.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\bin\Debug\net7.0\4) Karakter Değiştirme.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.AssemblyInfo.cs
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\refint\4) Karakter Değiştirme.dll
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.pdb
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\4) Karakter Değiştirme.genruntimeconfig.cache
+c:\Users\muaze\Desktop\Patika Ders Notları\Başlangıç Seviyesi .Net Core Patikası\7) C# Projeleri\2) Orta Seviye Projeler\4) Karakter Değiştirme\obj\Debug\net7.0\ref\4) Karakter Değiştirme.dll
