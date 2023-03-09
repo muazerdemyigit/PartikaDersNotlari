@@ -28,4 +28,18 @@ Patika eğitimleri sırasında aldığım ders notlarını bu Repository'de payl
 
 - [Microservices](https://app.patika.dev/courses/microservices)
 
+- [Yazılım Mühendisliği 101](https://app.patika.dev/courses/yazilim-muhendisligi-101)
+
+- [İleri Seviye GIT](https://app.patika.dev/courses/ileri-seviye-git)
+
+- [Design Patterns](https://app.patika.dev/courses/design-patterns)
+
+- [Yazılım Dünyasında Kariyer Basamakları](https://app.patika.dev/courses/yazilim-dunyasinda-kariyer-basamaklari)
+
+- [Freelance ve Remote Çalışma, İş Süreçleri](https://app.patika.dev/courses/freelance-ve-remote-calisma-is-surecleri)
+
+- [Yazılım, Internet, Kodlama ve Konseptleri](https://app.patika.dev/courses/yazilim-internet-kodlama-ve-konseptleri)
+
+- [Soft Skill Eğitimleri](https://app.patika.dev/courses/soft-skill-egitimleri)
+
 </details>
