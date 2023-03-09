@@ -43,5 +43,7 @@ git rebase header
 # Merge işlemini geri almak için:
 
 ```git
+
 git merge --abort
+
 ```
