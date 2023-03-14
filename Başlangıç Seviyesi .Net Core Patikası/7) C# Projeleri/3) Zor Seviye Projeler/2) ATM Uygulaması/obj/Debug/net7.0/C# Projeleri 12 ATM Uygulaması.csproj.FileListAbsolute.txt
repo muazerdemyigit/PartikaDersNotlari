@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\bin\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.exe
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\bin\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.deps.json
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\bin\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\bin\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.dll
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\bin\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.pdb
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.dll
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\refint\C# Projeleri 12 ATM Uygulaması.dll
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.pdb
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\C# Projeleri 12 ATM Uygulaması.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri 12 ATM Uygulaması\obj\Debug\net7.0\ref\C# Projeleri 12 ATM Uygulaması.dll

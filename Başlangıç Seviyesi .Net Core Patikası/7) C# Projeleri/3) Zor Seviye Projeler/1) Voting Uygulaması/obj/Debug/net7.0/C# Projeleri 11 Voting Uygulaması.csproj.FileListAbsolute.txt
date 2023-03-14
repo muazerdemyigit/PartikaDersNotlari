@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\bin\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.exe
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\bin\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.deps.json
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\bin\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\bin\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.dll
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\bin\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.pdb
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.dll
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\refint\C# Projeleri 11 Voting Uygulaması.dll
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.pdb
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\C# Projeleri 11 Voting Uygulaması.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri 11 Voting Uygulaması\obj\Debug\net7.0\ref\C# Projeleri 11 Voting Uygulaması.dll
