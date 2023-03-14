@@ -41,5 +41,7 @@ Patika eğitimleri sırasında aldığım ders notlarını bu Repository'de payl
 - [Yazılım, Internet, Kodlama ve Konseptleri](https://app.patika.dev/courses/yazilim-internet-kodlama-ve-konseptleri)
 
 - [Soft Skill Eğitimleri](https://app.patika.dev/courses/soft-skill-egitimleri)
+ 
+- [C# Projeleri](https://app.patika.dev/courses/c-projeleri)
 
 </details>
